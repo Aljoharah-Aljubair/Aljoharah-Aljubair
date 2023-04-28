@@ -12,4 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljoharah-aljubair&theme=dark&show_icons=true&locale=en&layout=compact" alt="aljoharah-aljubair" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aljoharah-aljubair&theme=dark" alt="aljoharah-aljubair" /></p>
+
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aljoharah-aljubair&theme=dark" alt="aljoharah-aljubair" /></p>
