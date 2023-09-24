@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aljoharah-aljubair&label=Profile%20views&color=0e75b6&style=flat" alt="aljoharah-aljubair" /> </p>
 
-<p align="center"> <a href="https://twitter.com/aljoharah_ju" target="blank"><img src="https://img.shields.io/twitter/follow/aljoharah_ju?logo=twitter&style=for-the-badge" alt="aljoharah_ju" /></a> </p>
+
 
 
 
